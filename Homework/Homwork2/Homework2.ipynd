@@ -1,1 +1,82 @@
-adfghjk
+class animal: 
+    def __init__(self, name, age):
+        self.name = name
+        self.type = age
+
+class farmanimal (animal):
+    def __init__ (self, name, age, eat, leather, helper, soil):
+        super().__init__(name, age)
+        self.eat = eat
+        self.leather = leather
+        self.helper = helper
+        self.soil = soil
+class cow(farmanimal):
+    def __init__(self, name, age):
+        super(). __init__(name, age, eat=True, leather=True, helper=false, soil=True)
+class pig(farmanimal): 
+    def __init__(self, name, age):
+        super().__init__(name,age, eat=True, leather=false, helper=false, soil=True)
+class goat(farmanimal):
+    def __init__(self, name, age):
+        super(). __init__(name, age, eat=True, leather=false, helper=True, soil=True)
+class chicken(farmanimal):
+    def __init__(self, name, age):
+        super(). __init__(name, age, eat=True, leather=false, helper=false, soil=false)
+class sheep(farmanimal):
+    def __init__(self, name, age):
+        super(). __init__(name, age, eat=True, leather=false, helper=false, soil=True)
+
+farm = []
+
+def display_animals():
+    if not farm:
+        print("there's no animals on the farm")
+    else:
+        for i, animal in enumerate(farm, 1):
+            print(f"{i}. {animal.__class__.__name__} - {animal.name}, age: {animal.age}")
+def add_animal():
+    print("which animal would you like to add to the farm 1-cow 2-pig 3-goat 4-chicken 5-sheep")
+    choice = input ("animal number: ")
+    name = input ("animal's name: ")
+    age = input ("animal's age: ")
+
+    if choice == "1":
+        farm.append(cow(name, age))
+    elif choice == "2":
+        farm.append(pig(name, age))
+    elif choice == "3":
+        farm.append(goat(name, age))
+    elif choice == "4":
+        farm.append(chicken(name, age))
+    elif choice == "5":
+        farm.append(sheep(name, age))
+    else:
+        print("invalid choice.")
+
+def remove_animal():
+    display_animals()
+    if farm:
+        try:
+            idx = int(input("remove animal number: ")) - 1
+            if 0 <= idx < len(farm):
+                print(f"removed {farm.pop(idx).name}.")
+            else:
+                print("number invalid")
+        except ValueError:
+            print("please enter a valid number")
+
+def main():
+    while True:
+        print("\n1. add animal 2. remove animal 3. view animals 4. quit")
+        choice = input("choose: ")
+        if choice == "1":
+            add_animal()
+        elif choice == "2":
+            remove_animal()
+        elif choice == "3":
+            display_animals()
+        elif choice == "4":
+            break
+        else:
+            print ("choice not valid")
+    main()
