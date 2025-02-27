@@ -1,0 +1,17 @@
+[
+    {
+        "first_name": "mike",
+        "last_name": "ross",
+        "street_address": "674 robbin hood suite 200",
+        "email": "mikeross@bobmail.com",
+        "age": "20 february 2000"
+    },
+    {
+        "first_name": "harvey",
+        "last_name": "spector",
+        "street_address": "674 batman suite 200",
+        "email": "harveyspector@bobmail.com",
+        "age": "27 february 1995",
+        "student_id": 12345678
+    }
+]
