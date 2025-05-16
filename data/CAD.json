@@ -1,0 +1,1316 @@
+{
+    "aud": {
+        "code": "AUD",
+        "alphaCode": "AUD",
+        "numericCode": "036",
+        "name": "Australian Dollar",
+        "rate": 1.1154967858338,
+        "date": "Fri, 16 May 2025 15:55:20 GMT",
+        "inverseRate": 0.89646157003718
+    },
+    "chf": {
+        "code": "CHF",
+        "alphaCode": "CHF",
+        "numericCode": "756",
+        "name": "Swiss Franc",
+        "rate": 0.59888261473715,
+        "date": "Fri, 16 May 2025 15:55:20 GMT",
+        "inverseRate": 1.6697763057271
+    },
+    "cny": {
+        "code": "CNY",
+        "alphaCode": "CNY",
+        "numericCode": "156",
+        "name": "Chinese Yuan",
+        "rate": 5.1609896131661,
+        "date": "Fri, 16 May 2025 15:55:20 GMT",
+        "inverseRate": 0.19376128900723
+    },
+    "eur": {
+        "code": "EUR",
+        "alphaCode": "EUR",
+        "numericCode": "978",
+        "name": "Euro",
+        "rate": 0.63959763510991,
+        "date": "Fri, 16 May 2025 15:55:20 GMT",
+        "inverseRate": 1.5634829541359
+    },
+    "gbp": {
+        "code": "GBP",
+        "alphaCode": "GBP",
+        "numericCode": "826",
+        "name": "U.K. Pound Sterling",
+        "rate": 0.53859732294402,
+        "date": "Fri, 16 May 2025 15:55:20 GMT",
+        "inverseRate": 1.8566746573004
+    },
+    "hkd": {
+        "code": "HKD",
+        "alphaCode": "HKD",
+        "numericCode": "344",
+        "name": "Hong Kong Dollar",
+        "rate": 5.5989620905356,
+        "date": "Fri, 16 May 2025 15:55:20 GMT",
+        "inverseRate": 0.17860453130954
+    },
+    "idr": {
+        "code": "IDR",
+        "alphaCode": "IDR",
+        "numericCode": "360",
+        "name": "Indonesian Rupiah",
+        "rate": 11779.219115279,
+        "date": "Fri, 16 May 2025 15:55:20 GMT",
+        "inverseRate": 8.4895271088293e-05
+    },
+    "inr": {
+        "code": "INR",
+        "alphaCode": "INR",
+        "numericCode": "356",
+        "name": "Indian Rupee",
+        "rate": 61.328674195649,
+        "date": "Fri, 16 May 2025 15:55:20 GMT",
+        "inverseRate": 0.016305586466941
+    },
+    "jpy": {
+        "code": "JPY",
+        "alphaCode": "JPY",
+        "numericCode": "392",
+        "name": "Japanese Yen",
+        "rate": 104.19024673003,
+        "date": "Fri, 16 May 2025 15:55:20 GMT",
+        "inverseRate": 0.0095978273531792
+    },
+    "krw": {
+        "code": "KRW",
+        "alphaCode": "KRW",
+        "numericCode": "410",
+        "name": "South Korean Won",
+        "rate": 998.02998150381,
+        "date": "Fri, 16 May 2025 15:55:20 GMT",
+        "inverseRate": 0.0010019739071297
+    },
+    "myr": {
+        "code": "MYR",
+        "alphaCode": "MYR",
+        "numericCode": "458",
+        "name": "Malaysian Ringgit",
+        "rate": 3.0699045642666,
+        "date": "Fri, 16 May 2025 15:55:20 GMT",
+        "inverseRate": 0.32574302525229
+    },
+    "nzd": {
+        "code": "NZD",
+        "alphaCode": "NZD",
+        "numericCode": "554",
+        "name": "New Zealand Dollar",
+        "rate": 1.2136352710104,
+        "date": "Fri, 16 May 2025 15:55:20 GMT",
+        "inverseRate": 0.82397077926671
+    },
+    "php": {
+        "code": "PHP",
+        "alphaCode": "PHP",
+        "numericCode": "608",
+        "name": "Philippine Peso",
+        "rate": 39.868075820974,
+        "date": "Fri, 16 May 2025 15:55:20 GMT",
+        "inverseRate": 0.025082725449065
+    },
+    "sgd": {
+        "code": "SGD",
+        "alphaCode": "SGD",
+        "numericCode": "702",
+        "name": "Singapore Dollar",
+        "rate": 0.92919769332593,
+        "date": "Fri, 16 May 2025 15:55:20 GMT",
+        "inverseRate": 1.0761972475638
+    },
+    "thb": {
+        "code": "THB",
+        "alphaCode": "THB",
+        "numericCode": "764",
+        "name": "Thai Baht",
+        "rate": 23.846223302986,
+        "date": "Fri, 16 May 2025 15:55:20 GMT",
+        "inverseRate": 0.041935361725593
+    },
+    "twd": {
+        "code": "TWD",
+        "alphaCode": "TWD",
+        "numericCode": "901",
+        "name": "New Taiwan Dollar ",
+        "rate": 21.57814657713,
+        "date": "Fri, 16 May 2025 15:55:20 GMT",
+        "inverseRate": 0.046343183202763
+    },
+    "usd": {
+        "code": "USD",
+        "alphaCode": "USD",
+        "numericCode": "840",
+        "name": "U.S. Dollar",
+        "rate": 0.71652857510759,
+        "date": "Fri, 16 May 2025 15:55:20 GMT",
+        "inverseRate": 1.3956177530671
+    },
+    "vnd": {
+        "code": "VND",
+        "alphaCode": "VND",
+        "numericCode": "704",
+        "name": "Vietnamese Dong",
+        "rate": 18577.379600418,
+        "date": "Fri, 16 May 2025 15:55:20 GMT",
+        "inverseRate": 5.3828904910654e-05
+    },
+    "aed": {
+        "code": "AED",
+        "alphaCode": "AED",
+        "numericCode": "784",
+        "name": "U.A.E Dirham",
+        "rate": 2.6315159340839,
+        "date": "Fri, 16 May 2025 15:55:20 GMT",
+        "inverseRate": 0.38000909933617
+    },
+    "bgn": {
+        "code": "BGN",
+        "alphaCode": "BGN",
+        "numericCode": "975",
+        "name": "Bulgarian Lev",
+        "rate": 1.2518645688551,
+        "date": "Fri, 16 May 2025 15:55:20 GMT",
+        "inverseRate": 0.79880845330942
+    },
+    "brl": {
+        "code": "BRL",
+        "alphaCode": "BRL",
+        "numericCode": "986",
+        "name": "Brazilian Real",
+        "rate": 4.0739840862461,
+        "date": "Fri, 16 May 2025 15:55:20 GMT",
+        "inverseRate": 0.24545996715501
+    },
+    "czk": {
+        "code": "CZK",
+        "alphaCode": "CZK",
+        "numericCode": "203",
+        "name": "Czech Koruna",
+        "rate": 15.960201412688,
+        "date": "Fri, 16 May 2025 15:55:20 GMT",
+        "inverseRate": 0.062655850897035
+    },
+    "dkk": {
+        "code": "DKK",
+        "alphaCode": "DKK",
+        "numericCode": "208",
+        "name": "Danish Krone",
+        "rate": 4.7749157287517,
+        "date": "Fri, 16 May 2025 15:55:20 GMT",
+        "inverseRate": 0.20942777984093
+    },
+    "egp": {
+        "code": "EGP",
+        "alphaCode": "EGP",
+        "numericCode": "818",
+        "name": "Egyptian Pound",
+        "rate": 35.929627816944,
+        "date": "Fri, 16 May 2025 15:55:20 GMT",
+        "inverseRate": 0.027832183653414
+    },
+    "huf": {
+        "code": "HUF",
+        "alphaCode": "HUF",
+        "numericCode": "348",
+        "name": "Hungarian Forint",
+        "rate": 257.97543485345,
+        "date": "Fri, 16 May 2025 15:55:20 GMT",
+        "inverseRate": 0.003876338072918
+    },
+    "ils": {
+        "code": "ILS",
+        "alphaCode": "ILS",
+        "numericCode": "376",
+        "name": "Israeli New Sheqel",
+        "rate": 2.5446179134536,
+        "date": "Fri, 16 May 2025 15:55:20 GMT",
+        "inverseRate": 0.39298630836202
+    },
+    "isk": {
+        "code": "ISK",
+        "alphaCode": "ISK",
+        "numericCode": "352",
+        "name": "Icelandic Krona",
+        "rate": 93.357180868667,
+        "date": "Fri, 16 May 2025 15:55:20 GMT",
+        "inverseRate": 0.01071154881387
+    },
+    "mdl": {
+        "code": "MDL",
+        "alphaCode": "MDL",
+        "numericCode": "498",
+        "name": "Moldova Lei",
+        "rate": 12.473544530958,
+        "date": "Fri, 16 May 2025 15:55:20 GMT",
+        "inverseRate": 0.080169674106515
+    },
+    "mxn": {
+        "code": "MXN",
+        "alphaCode": "MXN",
+        "numericCode": "484",
+        "name": "Mexican Peso",
+        "rate": 13.962792947905,
+        "date": "Fri, 16 May 2025 15:55:20 GMT",
+        "inverseRate": 0.071618909177481
+    },
+    "nok": {
+        "code": "NOK",
+        "alphaCode": "NOK",
+        "numericCode": "578",
+        "name": "Norwegian Krone",
+        "rate": 7.4466935544839,
+        "date": "Fri, 16 May 2025 15:55:20 GMT",
+        "inverseRate": 0.13428778728216
+    },
+    "pln": {
+        "code": "PLN",
+        "alphaCode": "PLN",
+        "numericCode": "985",
+        "name": "Polish Zloty",
+        "rate": 2.7255313089467,
+        "date": "Fri, 16 May 2025 15:55:20 GMT",
+        "inverseRate": 0.36690094027445
+    },
+    "ron": {
+        "code": "RON",
+        "alphaCode": "RON",
+        "numericCode": "946",
+        "name": "Romanian New Leu",
+        "rate": 3.2670064327463,
+        "date": "Fri, 16 May 2025 15:55:20 GMT",
+        "inverseRate": 0.30609061248753
+    },
+    "rsd": {
+        "code": "RSD",
+        "alphaCode": "RSD",
+        "numericCode": "941",
+        "name": "Serbian Dinar",
+        "rate": 75.046371075426,
+        "date": "Fri, 16 May 2025 15:55:20 GMT",
+        "inverseRate": 0.013325094680394
+    },
+    "rub": {
+        "code": "RUB",
+        "alphaCode": "RUB",
+        "numericCode": "643",
+        "name": "Russian Rouble",
+        "rate": 57.885091254658,
+        "date": "Fri, 16 May 2025 15:55:20 GMT",
+        "inverseRate": 0.017275605485368
+    },
+    "sek": {
+        "code": "SEK",
+        "alphaCode": "SEK",
+        "numericCode": "752",
+        "name": "Swedish Krona",
+        "rate": 6.9957042414382,
+        "date": "Fri, 16 May 2025 15:55:20 GMT",
+        "inverseRate": 0.14294486523267
+    },
+    "try": {
+        "code": "TRY",
+        "alphaCode": "TRY",
+        "numericCode": "949",
+        "name": "Turkish Lira",
+        "rate": 27.825422930147,
+        "date": "Fri, 16 May 2025 15:55:20 GMT",
+        "inverseRate": 0.035938357613122
+    },
+    "uah": {
+        "code": "UAH",
+        "alphaCode": "UAH",
+        "numericCode": "980",
+        "name": "Ukrainian Hryvnia",
+        "rate": 29.735024945072,
+        "date": "Fri, 16 May 2025 15:55:20 GMT",
+        "inverseRate": 0.033630373670351
+    },
+    "zar": {
+        "code": "ZAR",
+        "alphaCode": "ZAR",
+        "numericCode": "710",
+        "name": "South African Rand",
+        "rate": 12.969275986354,
+        "date": "Fri, 16 May 2025 15:55:20 GMT",
+        "inverseRate": 0.077105306499161
+    },
+    "jod": {
+        "code": "JOD",
+        "alphaCode": "JOD",
+        "numericCode": "400",
+        "name": "Jordanian Dinar",
+        "rate": 0.50804371842276,
+        "date": "Fri, 16 May 2025 15:55:20 GMT",
+        "inverseRate": 1.9683345423589
+    },
+    "lbp": {
+        "code": "LBP",
+        "alphaCode": "LBP",
+        "numericCode": "422",
+        "name": "Lebanese Pound",
+        "rate": 64078.824777065,
+        "date": "Fri, 16 May 2025 15:55:20 GMT",
+        "inverseRate": 1.5605779342537e-05
+    },
+    "clp": {
+        "code": "CLP",
+        "alphaCode": "CLP",
+        "numericCode": "152",
+        "name": "Chilean Peso",
+        "rate": 673.16062557318,
+        "date": "Fri, 16 May 2025 15:55:20 GMT",
+        "inverseRate": 0.001485529548239
+    },
+    "azn": {
+        "code": "AZN",
+        "alphaCode": "AZN",
+        "numericCode": "944",
+        "name": "Azerbaijan Manat",
+        "rate": 1.2181295655348,
+        "date": "Fri, 16 May 2025 15:55:20 GMT",
+        "inverseRate": 0.82093073536147
+    },
+    "bdt": {
+        "code": "BDT",
+        "alphaCode": "BDT",
+        "numericCode": "050",
+        "name": "Bangladeshi taka",
+        "rate": 87.390646438683,
+        "date": "Fri, 16 May 2025 15:55:20 GMT",
+        "inverseRate": 0.011442872215182
+    },
+    "dzd": {
+        "code": "DZD",
+        "alphaCode": "DZD",
+        "numericCode": "012",
+        "name": "Algerian Dinar",
+        "rate": 95.405436806224,
+        "date": "Fri, 16 May 2025 15:55:20 GMT",
+        "inverseRate": 0.010481582952459
+    },
+    "gel": {
+        "code": "GEL",
+        "alphaCode": "GEL",
+        "numericCode": "981",
+        "name": "Georgian lari",
+        "rate": 1.9635396507393,
+        "date": "Fri, 16 May 2025 15:55:20 GMT",
+        "inverseRate": 0.50928434250027
+    },
+    "kzt": {
+        "code": "KZT",
+        "alphaCode": "KZT",
+        "numericCode": "398",
+        "name": "Kazakhstani Tenge",
+        "rate": 365.52728478213,
+        "date": "Fri, 16 May 2025 15:55:20 GMT",
+        "inverseRate": 0.0027357738851042
+    },
+    "sar": {
+        "code": "SAR",
+        "alphaCode": "SAR",
+        "numericCode": "682",
+        "name": "Saudi Riyal",
+        "rate": 2.6870623263924,
+        "date": "Fri, 16 May 2025 15:55:20 GMT",
+        "inverseRate": 0.3721536304454
+    },
+    "tnd": {
+        "code": "TND",
+        "alphaCode": "TND",
+        "numericCode": "788",
+        "name": "Tunisian Dinar",
+        "rate": 2.1604991144324,
+        "date": "Fri, 16 May 2025 15:55:20 GMT",
+        "inverseRate": 0.46285601013204
+    },
+    "afn": {
+        "code": "AFN",
+        "alphaCode": "AFN",
+        "numericCode": "971",
+        "name": "Afghan afghani",
+        "rate": 50.290333205714,
+        "date": "Fri, 16 May 2025 15:55:20 GMT",
+        "inverseRate": 0.019884537171577
+    },
+    "all": {
+        "code": "ALL",
+        "alphaCode": "ALL",
+        "numericCode": "008",
+        "name": "Albanian lek",
+        "rate": 62.825870686806,
+        "date": "Fri, 16 May 2025 15:55:20 GMT",
+        "inverseRate": 0.015917009809305
+    },
+    "amd": {
+        "code": "AMD",
+        "alphaCode": "AMD",
+        "numericCode": "051",
+        "name": "Armenia Dram",
+        "rate": 277.09313460633,
+        "date": "Fri, 16 May 2025 15:55:20 GMT",
+        "inverseRate": 0.0036088948988964
+    },
+    "aoa": {
+        "code": "AOA",
+        "alphaCode": "AOA",
+        "numericCode": "973",
+        "name": "Angolan kwanza",
+        "rate": 658.36583705404,
+        "date": "Fri, 16 May 2025 15:55:20 GMT",
+        "inverseRate": 0.0015189123489072
+    },
+    "ars": {
+        "code": "ARS",
+        "alphaCode": "ARS",
+        "numericCode": "032",
+        "name": "Argentine Peso",
+        "rate": 815.71503847325,
+        "date": "Fri, 16 May 2025 15:55:20 GMT",
+        "inverseRate": 0.0012259183082755
+    },
+    "awg": {
+        "code": "AWG",
+        "alphaCode": "AWG",
+        "numericCode": "533",
+        "name": "Aruban florin",
+        "rate": 1.2825695068278,
+        "date": "Fri, 16 May 2025 15:55:20 GMT",
+        "inverseRate": 0.77968483943867
+    },
+    "bam": {
+        "code": "BAM",
+        "alphaCode": "BAM",
+        "numericCode": "977",
+        "name": "Bosnia and Herzegovina convertible mark",
+        "rate": 1.2519278926681,
+        "date": "Fri, 16 May 2025 15:55:20 GMT",
+        "inverseRate": 0.79876804874824
+    },
+    "bbd": {
+        "code": "BBD",
+        "alphaCode": "BBD",
+        "numericCode": "052",
+        "name": "Barbadian Dollar",
+        "rate": 1.4330571502152,
+        "date": "Fri, 16 May 2025 15:55:20 GMT",
+        "inverseRate": 0.69780887653353
+    },
+    "bhd": {
+        "code": "BHD",
+        "alphaCode": "BHD",
+        "numericCode": "048",
+        "name": "Bahrain Dinar",
+        "rate": 0.26948233886037,
+        "date": "Fri, 16 May 2025 15:55:20 GMT",
+        "inverseRate": 3.7108183201503
+    },
+    "bif": {
+        "code": "BIF",
+        "alphaCode": "BIF",
+        "numericCode": "108",
+        "name": "Burundian franc",
+        "rate": 2104.1936336887,
+        "date": "Fri, 16 May 2025 15:55:20 GMT",
+        "inverseRate": 0.00047524143405328
+    },
+    "bnd": {
+        "code": "BND",
+        "alphaCode": "BND",
+        "numericCode": "096",
+        "name": "Brunei Dollar",
+        "rate": 0.93064221489095,
+        "date": "Fri, 16 May 2025 15:55:20 GMT",
+        "inverseRate": 1.0745267988055
+    },
+    "bob": {
+        "code": "BOB",
+        "alphaCode": "BOB",
+        "numericCode": "068",
+        "name": "Bolivian Boliviano",
+        "rate": 4.9512418986196,
+        "date": "Fri, 16 May 2025 15:55:20 GMT",
+        "inverseRate": 0.20196953016551
+    },
+    "bsd": {
+        "code": "BSD",
+        "alphaCode": "BSD",
+        "numericCode": "044",
+        "name": "Bahamian Dollar",
+        "rate": 0.71652857510759,
+        "date": "Fri, 16 May 2025 15:55:20 GMT",
+        "inverseRate": 1.3956177530671
+    },
+    "bwp": {
+        "code": "BWP",
+        "alphaCode": "BWP",
+        "numericCode": "072",
+        "name": "Botswana Pula",
+        "rate": 9.6959233441507,
+        "date": "Fri, 16 May 2025 15:55:20 GMT",
+        "inverseRate": 0.10313612891786
+    },
+    "bzd": {
+        "code": "BZD",
+        "alphaCode": "BZD",
+        "numericCode": "084",
+        "name": "Belize dollar",
+        "rate": 1.4330571502152,
+        "date": "Fri, 16 May 2025 15:55:20 GMT",
+        "inverseRate": 0.69780887653353
+    },
+    "cdf": {
+        "code": "CDF",
+        "alphaCode": "CDF",
+        "numericCode": "976",
+        "name": "Congolese franc",
+        "rate": 2042.2263298929,
+        "date": "Fri, 16 May 2025 15:55:20 GMT",
+        "inverseRate": 0.00048966169193031
+    },
+    "cop": {
+        "code": "COP",
+        "alphaCode": "COP",
+        "numericCode": "170",
+        "name": "Colombian Peso",
+        "rate": 3010.7962316717,
+        "date": "Fri, 16 May 2025 15:55:20 GMT",
+        "inverseRate": 0.00033213805354232
+    },
+    "crc": {
+        "code": "CRC",
+        "alphaCode": "CRC",
+        "numericCode": "188",
+        "name": "Costa Rican Col\u00f3n",
+        "rate": 362.73545402689,
+        "date": "Fri, 16 May 2025 15:55:20 GMT",
+        "inverseRate": 0.0027568300503812
+    },
+    "cup": {
+        "code": "CUP",
+        "alphaCode": "CUP",
+        "numericCode": "192",
+        "name": "Cuban peso",
+        "rate": 17.196685802582,
+        "date": "Fri, 16 May 2025 15:55:20 GMT",
+        "inverseRate": 0.058150739711127
+    },
+    "cve": {
+        "code": "CVE",
+        "alphaCode": "CVE",
+        "numericCode": "132",
+        "name": "Cape Verde escudo",
+        "rate": 70.580689060424,
+        "date": "Fri, 16 May 2025 15:55:20 GMT",
+        "inverseRate": 0.014168181315769
+    },
+    "djf": {
+        "code": "DJF",
+        "alphaCode": "DJF",
+        "numericCode": "262",
+        "name": "Djiboutian franc",
+        "rate": 127.34224697202,
+        "date": "Fri, 16 May 2025 15:55:20 GMT",
+        "inverseRate": 0.00785285342279
+    },
+    "dop": {
+        "code": "DOP",
+        "alphaCode": "DOP",
+        "numericCode": "214",
+        "name": "Dominican Peso",
+        "rate": 42.137948369705,
+        "date": "Fri, 16 May 2025 15:55:20 GMT",
+        "inverseRate": 0.023731577798385
+    },
+    "ern": {
+        "code": "ERN",
+        "alphaCode": "ERN",
+        "numericCode": "232",
+        "name": "Eritrean nakfa",
+        "rate": 11.020227407971,
+        "date": "Fri, 16 May 2025 15:55:20 GMT",
+        "inverseRate": 0.090742229082925
+    },
+    "etb": {
+        "code": "ETB",
+        "alphaCode": "ETB",
+        "numericCode": "230",
+        "name": "Ethiopian birr",
+        "rate": 96.733021901,
+        "date": "Fri, 16 May 2025 15:55:20 GMT",
+        "inverseRate": 0.010337731421473
+    },
+    "fjd": {
+        "code": "FJD",
+        "alphaCode": "FJD",
+        "numericCode": "242",
+        "name": "Fiji Dollar",
+        "rate": 1.6456985586936,
+        "date": "Fri, 16 May 2025 15:55:20 GMT",
+        "inverseRate": 0.60764469575389
+    },
+    "ghs": {
+        "code": "GHS",
+        "alphaCode": "GHS",
+        "numericCode": "936",
+        "name": "Ghanaian Cedi",
+        "rate": 8.8812033420094,
+        "date": "Fri, 16 May 2025 15:55:20 GMT",
+        "inverseRate": 0.11259735437763
+    },
+    "gip": {
+        "code": "GIP",
+        "alphaCode": "GIP",
+        "numericCode": "292",
+        "name": "Gibraltar pound",
+        "rate": 0.53941274811789,
+        "date": "Fri, 16 May 2025 15:55:20 GMT",
+        "inverseRate": 1.8538679396977
+    },
+    "gmd": {
+        "code": "GMD",
+        "alphaCode": "GMD",
+        "numericCode": "270",
+        "name": "Gambian dalasi",
+        "rate": 51.06082225865,
+        "date": "Fri, 16 May 2025 15:55:20 GMT",
+        "inverseRate": 0.019584486809368
+    },
+    "gnf": {
+        "code": "GNF",
+        "alphaCode": "GNF",
+        "numericCode": "324",
+        "name": "Guinean franc",
+        "rate": 6178.1020448485,
+        "date": "Fri, 16 May 2025 15:55:20 GMT",
+        "inverseRate": 0.00016186200757785
+    },
+    "gtq": {
+        "code": "GTQ",
+        "alphaCode": "GTQ",
+        "numericCode": "320",
+        "name": "Guatemalan Quetzal",
+        "rate": 5.5003201653047,
+        "date": "Fri, 16 May 2025 15:55:20 GMT",
+        "inverseRate": 0.18180759845725
+    },
+    "gyd": {
+        "code": "GYD",
+        "alphaCode": "GYD",
+        "numericCode": "328",
+        "name": "Guyanese dollar",
+        "rate": 149.91212896723,
+        "date": "Fri, 16 May 2025 15:55:20 GMT",
+        "inverseRate": 0.00667057433504
+    },
+    "hnl": {
+        "code": "HNL",
+        "alphaCode": "HNL",
+        "numericCode": "340",
+        "name": "Honduran Lempira",
+        "rate": 18.621293625308,
+        "date": "Fri, 16 May 2025 15:55:20 GMT",
+        "inverseRate": 0.053701961857306
+    },
+    "htg": {
+        "code": "HTG",
+        "alphaCode": "HTG",
+        "numericCode": "332",
+        "name": "Haitian gourde",
+        "rate": 93.620596902248,
+        "date": "Fri, 16 May 2025 15:55:20 GMT",
+        "inverseRate": 0.010681410214081
+    },
+    "iqd": {
+        "code": "IQD",
+        "alphaCode": "IQD",
+        "numericCode": "368",
+        "name": "Iraqi dinar",
+        "rate": 938.65243339095,
+        "date": "Fri, 16 May 2025 15:55:20 GMT",
+        "inverseRate": 0.00106535706341
+    },
+    "jmd": {
+        "code": "JMD",
+        "alphaCode": "JMD",
+        "numericCode": "388",
+        "name": "Jamaican Dollar",
+        "rate": 113.87977985933,
+        "date": "Fri, 16 May 2025 15:55:20 GMT",
+        "inverseRate": 0.0087811901395952
+    },
+    "kes": {
+        "code": "KES",
+        "alphaCode": "KES",
+        "numericCode": "404",
+        "name": "Kenyan shilling",
+        "rate": 92.605845472806,
+        "date": "Fri, 16 May 2025 15:55:20 GMT",
+        "inverseRate": 0.010798454405275
+    },
+    "kgs": {
+        "code": "KGS",
+        "alphaCode": "KGS",
+        "numericCode": "417",
+        "name": "Kyrgyzstan Som",
+        "rate": 62.660404690142,
+        "date": "Fri, 16 May 2025 15:55:20 GMT",
+        "inverseRate": 0.015959041518245
+    },
+    "khr": {
+        "code": "KHR",
+        "alphaCode": "KHR",
+        "numericCode": "116",
+        "name": "Cambodian riel",
+        "rate": 2869.5388384658,
+        "date": "Fri, 16 May 2025 15:55:20 GMT",
+        "inverseRate": 0.00034848805201558
+    },
+    "kmf": {
+        "code": "KMF",
+        "alphaCode": "KMF",
+        "numericCode": "174",
+        "name": "\tComoro franc",
+        "rate": 314.90883589994,
+        "date": "Fri, 16 May 2025 15:55:20 GMT",
+        "inverseRate": 0.0031755222019802
+    },
+    "kwd": {
+        "code": "KWD",
+        "alphaCode": "KWD",
+        "numericCode": "414",
+        "name": "Kuwaiti Dinar",
+        "rate": 0.22025860523005,
+        "date": "Fri, 16 May 2025 15:55:20 GMT",
+        "inverseRate": 4.5401177354934
+    },
+    "lak": {
+        "code": "LAK",
+        "alphaCode": "LAK",
+        "numericCode": "418",
+        "name": "Lao kip",
+        "rate": 14638.459875054,
+        "date": "Fri, 16 May 2025 15:55:20 GMT",
+        "inverseRate": 6.8313197463084e-05
+    },
+    "lkr": {
+        "code": "LKR",
+        "alphaCode": "LKR",
+        "numericCode": "144",
+        "name": "Sri Lanka Rupee",
+        "rate": 213.86931339679,
+        "date": "Fri, 16 May 2025 15:55:20 GMT",
+        "inverseRate": 0.004675752608532
+    },
+    "lrd": {
+        "code": "LRD",
+        "alphaCode": "LRD",
+        "numericCode": "430",
+        "name": "Liberian dollar",
+        "rate": 142.99763461845,
+        "date": "Fri, 16 May 2025 15:55:20 GMT",
+        "inverseRate": 0.0069931226671564
+    },
+    "lsl": {
+        "code": "LSL",
+        "alphaCode": "LSL",
+        "numericCode": "426",
+        "name": "Lesotho loti",
+        "rate": 12.972790178659,
+        "date": "Fri, 16 May 2025 15:55:20 GMT",
+        "inverseRate": 0.077084419483256
+    },
+    "lyd": {
+        "code": "LYD",
+        "alphaCode": "LYD",
+        "numericCode": "434",
+        "name": "Libyan Dinar",
+        "rate": 3.9517248626802,
+        "date": "Fri, 16 May 2025 15:55:20 GMT",
+        "inverseRate": 0.25305405481134
+    },
+    "mad": {
+        "code": "MAD",
+        "alphaCode": "MAD",
+        "numericCode": "504",
+        "name": "Moroccan Dirham",
+        "rate": 6.6551255988866,
+        "date": "Fri, 16 May 2025 15:55:20 GMT",
+        "inverseRate": 0.15026012434195
+    },
+    "mga": {
+        "code": "MGA",
+        "alphaCode": "MGA",
+        "numericCode": "969",
+        "name": "Malagasy ariary",
+        "rate": 3237.64147174,
+        "date": "Fri, 16 May 2025 15:55:20 GMT",
+        "inverseRate": 0.0003088668120694
+    },
+    "mkd": {
+        "code": "MKD",
+        "alphaCode": "MKD",
+        "numericCode": "807",
+        "name": "Macedonian denar",
+        "rate": 39.422513742832,
+        "date": "Fri, 16 May 2025 15:55:20 GMT",
+        "inverseRate": 0.025366216028825
+    },
+    "mmk": {
+        "code": "MMK",
+        "alphaCode": "MMK",
+        "numericCode": "104",
+        "name": "Myanma Kyat",
+        "rate": 1504.6844037033,
+        "date": "Fri, 16 May 2025 15:55:20 GMT",
+        "inverseRate": 0.00066459119104235
+    },
+    "mnt": {
+        "code": "MNT",
+        "alphaCode": "MNT",
+        "numericCode": "496",
+        "name": "Mongolian togrog",
+        "rate": 2560.0374121338,
+        "date": "Fri, 16 May 2025 15:55:20 GMT",
+        "inverseRate": 0.00039061929144485
+    },
+    "mop": {
+        "code": "MOP",
+        "alphaCode": "MOP",
+        "numericCode": "446",
+        "name": "Macanese pataca",
+        "rate": 5.7674341320658,
+        "date": "Fri, 16 May 2025 15:55:20 GMT",
+        "inverseRate": 0.17338732911403
+    },
+    "mru": {
+        "code": "MRU",
+        "alphaCode": "MRU",
+        "numericCode": "929",
+        "name": "Mauritanian ouguiya",
+        "rate": 28.396141369415,
+        "date": "Fri, 16 May 2025 15:55:20 GMT",
+        "inverseRate": 0.035216052314667
+    },
+    "mur": {
+        "code": "MUR",
+        "alphaCode": "MUR",
+        "numericCode": "480",
+        "name": "Mauritian Rupee",
+        "rate": 32.948792644737,
+        "date": "Fri, 16 May 2025 15:55:20 GMT",
+        "inverseRate": 0.030350125747619
+    },
+    "mvr": {
+        "code": "MVR",
+        "alphaCode": "MVR",
+        "numericCode": "462",
+        "name": "Maldivian rufiyaa",
+        "rate": 11.041734787034,
+        "date": "Fri, 16 May 2025 15:55:20 GMT",
+        "inverseRate": 0.090565479001928
+    },
+    "mwk": {
+        "code": "MWK",
+        "alphaCode": "MWK",
+        "numericCode": "454",
+        "name": "Malawian kwacha",
+        "rate": 1242.7152452523,
+        "date": "Fri, 16 May 2025 15:55:20 GMT",
+        "inverseRate": 0.00080468957294956
+    },
+    "mzn": {
+        "code": "MZN",
+        "alphaCode": "MZN",
+        "numericCode": "943",
+        "name": "Mozambican metical",
+        "rate": 45.767190566547,
+        "date": "Fri, 16 May 2025 15:55:20 GMT",
+        "inverseRate": 0.0218497134655
+    },
+    "nad": {
+        "code": "NAD",
+        "alphaCode": "NAD",
+        "numericCode": "516",
+        "name": "Namibian dollar",
+        "rate": 12.972790178659,
+        "date": "Fri, 16 May 2025 15:55:20 GMT",
+        "inverseRate": 0.077084419483256
+    },
+    "ngn": {
+        "code": "NGN",
+        "alphaCode": "NGN",
+        "numericCode": "566",
+        "name": "Nigerian Naira",
+        "rate": 1146.5531930574,
+        "date": "Fri, 16 May 2025 15:55:20 GMT",
+        "inverseRate": 0.00087217933372405
+    },
+    "nio": {
+        "code": "NIO",
+        "alphaCode": "NIO",
+        "numericCode": "558",
+        "name": "Nicaraguan C\u00f3rdoba",
+        "rate": 26.366510490416,
+        "date": "Fri, 16 May 2025 15:55:20 GMT",
+        "inverseRate": 0.03792689974517
+    },
+    "npr": {
+        "code": "NPR",
+        "alphaCode": "NPR",
+        "numericCode": "524",
+        "name": "Nepalese Rupee",
+        "rate": 98.135098183755,
+        "date": "Fri, 16 May 2025 15:55:20 GMT",
+        "inverseRate": 0.010190034131596
+    },
+    "omr": {
+        "code": "OMR",
+        "alphaCode": "OMR",
+        "numericCode": "512",
+        "name": "Omani Rial",
+        "rate": 0.27549928419359,
+        "date": "Fri, 16 May 2025 15:55:20 GMT",
+        "inverseRate": 3.6297734962436
+    },
+    "pab": {
+        "code": "PAB",
+        "alphaCode": "PAB",
+        "numericCode": "590",
+        "name": "Panamanian Balboa",
+        "rate": 0.71652857510759,
+        "date": "Fri, 16 May 2025 15:55:20 GMT",
+        "inverseRate": 1.3956177530671
+    },
+    "pen": {
+        "code": "PEN",
+        "alphaCode": "PEN",
+        "numericCode": "604",
+        "name": "Peruvian Nuevo Sol",
+        "rate": 2.6402868202643,
+        "date": "Fri, 16 May 2025 15:55:20 GMT",
+        "inverseRate": 0.37874673021316
+    },
+    "pgk": {
+        "code": "PGK",
+        "alphaCode": "PGK",
+        "numericCode": "598",
+        "name": "Papua New Guinean kina",
+        "rate": 2.9426063182304,
+        "date": "Fri, 16 May 2025 15:55:20 GMT",
+        "inverseRate": 0.33983478992914
+    },
+    "pkr": {
+        "code": "PKR",
+        "alphaCode": "PKR",
+        "numericCode": "586",
+        "name": "Pakistani Rupee",
+        "rate": 201.83246122981,
+        "date": "Fri, 16 May 2025 15:55:20 GMT",
+        "inverseRate": 0.0049546043976611
+    },
+    "pyg": {
+        "code": "PYG",
+        "alphaCode": "PYG",
+        "numericCode": "600",
+        "name": "Paraguayan Guaran\u00ed",
+        "rate": 5723.3952130311,
+        "date": "Fri, 16 May 2025 15:55:20 GMT",
+        "inverseRate": 0.00017472146562991
+    },
+    "qar": {
+        "code": "QAR",
+        "alphaCode": "QAR",
+        "numericCode": "634",
+        "name": "Qatari Rial",
+        "rate": 2.6081537717826,
+        "date": "Fri, 16 May 2025 15:55:20 GMT",
+        "inverseRate": 0.38341297618987
+    },
+    "rwf": {
+        "code": "RWF",
+        "alphaCode": "RWF",
+        "numericCode": "646",
+        "name": "Rwandan franc",
+        "rate": 1016.6879896991,
+        "date": "Fri, 16 May 2025 15:55:20 GMT",
+        "inverseRate": 0.00098358592816262
+    },
+    "sbd": {
+        "code": "SBD",
+        "alphaCode": "SBD",
+        "numericCode": "090",
+        "name": "Solomon Islands dollar",
+        "rate": 5.9860284758207,
+        "date": "Fri, 16 May 2025 15:55:20 GMT",
+        "inverseRate": 0.16705567038969
+    },
+    "scr": {
+        "code": "SCR",
+        "alphaCode": "SCR",
+        "numericCode": "690",
+        "name": "Seychelles rupee",
+        "rate": 10.471533201626,
+        "date": "Fri, 16 May 2025 15:55:20 GMT",
+        "inverseRate": 0.095496999412151
+    },
+    "sdg": {
+        "code": "SDG",
+        "alphaCode": "SDG",
+        "numericCode": "938",
+        "name": "Sudanese pound",
+        "rate": 430.2544140535,
+        "date": "Fri, 16 May 2025 15:55:20 GMT",
+        "inverseRate": 0.0023242062541063
+    },
+    "sos": {
+        "code": "SOS",
+        "alphaCode": "SOS",
+        "numericCode": "706",
+        "name": "Somali shilling",
+        "rate": 409.49608067399,
+        "date": "Fri, 16 May 2025 15:55:20 GMT",
+        "inverseRate": 0.0024420258146405
+    },
+    "srd": {
+        "code": "SRD",
+        "alphaCode": "SRD",
+        "numericCode": "968",
+        "name": "Surinamese dollar",
+        "rate": 26.255645072149,
+        "date": "Fri, 16 May 2025 15:55:20 GMT",
+        "inverseRate": 0.038087047461682
+    },
+    "ssp": {
+        "code": "SSP",
+        "alphaCode": "SSP",
+        "numericCode": "728",
+        "name": "South Sudanese pound",
+        "rate": 3227.9612308597,
+        "date": "Fri, 16 May 2025 15:55:20 GMT",
+        "inverseRate": 0.00030979306394385
+    },
+    "stn": {
+        "code": "STN",
+        "alphaCode": "STN",
+        "numericCode": "930",
+        "name": "S\u00e3o Tom\u00e9 and Pr\u00edncipe Dobra",
+        "rate": 15.682463900425,
+        "date": "Fri, 16 May 2025 15:55:20 GMT",
+        "inverseRate": 0.063765490317684
+    },
+    "svc": {
+        "code": "SVC",
+        "alphaCode": "SVC",
+        "numericCode": "222",
+        "name": "Salvadoran colon",
+        "rate": 6.2696570372198,
+        "date": "Fri, 16 May 2025 15:55:20 GMT",
+        "inverseRate": 0.15949835757578
+    },
+    "szl": {
+        "code": "SZL",
+        "alphaCode": "SZL",
+        "numericCode": "748",
+        "name": "Swazi lilangeni",
+        "rate": 12.972790178659,
+        "date": "Fri, 16 May 2025 15:55:20 GMT",
+        "inverseRate": 0.077084419483256
+    },
+    "tjs": {
+        "code": "TJS",
+        "alphaCode": "TJS",
+        "numericCode": "972",
+        "name": "Tajikistan Ruble",
+        "rate": 7.4345120497094,
+        "date": "Fri, 16 May 2025 15:55:20 GMT",
+        "inverseRate": 0.13450781884725
+    },
+    "tmt": {
+        "code": "TMT",
+        "alphaCode": "TMT",
+        "numericCode": "934",
+        "name": "New Turkmenistan Manat",
+        "rate": 2.5078500128766,
+        "date": "Fri, 16 May 2025 15:55:20 GMT",
+        "inverseRate": 0.39874792944773
+    },
+    "top": {
+        "code": "TOP",
+        "alphaCode": "TOP",
+        "numericCode": "776",
+        "name": "Tongan pa\u02bbanga",
+        "rate": 1.7023474589053,
+        "date": "Fri, 16 May 2025 15:55:20 GMT",
+        "inverseRate": 0.58742414468256
+    },
+    "ttd": {
+        "code": "TTD",
+        "alphaCode": "TTD",
+        "numericCode": "780",
+        "name": "Trinidad Tobago Dollar",
+        "rate": 4.8548427531745,
+        "date": "Fri, 16 May 2025 15:55:20 GMT",
+        "inverseRate": 0.20597989488869
+    },
+    "tzs": {
+        "code": "TZS",
+        "alphaCode": "TZS",
+        "numericCode": "834",
+        "name": "Tanzanian shilling",
+        "rate": 1926.2518209269,
+        "date": "Fri, 16 May 2025 15:55:20 GMT",
+        "inverseRate": 0.00051914292261061
+    },
+    "ugx": {
+        "code": "UGX",
+        "alphaCode": "UGX",
+        "numericCode": "800",
+        "name": "Ugandan shilling",
+        "rate": 2616.8719415101,
+        "date": "Fri, 16 May 2025 15:55:20 GMT",
+        "inverseRate": 0.00038213562694357
+    },
+    "uyu": {
+        "code": "UYU",
+        "alphaCode": "UYU",
+        "numericCode": "858",
+        "name": "Uruguayan Peso",
+        "rate": 29.838543987914,
+        "date": "Fri, 16 May 2025 15:55:20 GMT",
+        "inverseRate": 0.033513699609641
+    },
+    "uzs": {
+        "code": "UZS",
+        "alphaCode": "UZS",
+        "numericCode": "860",
+        "name": "Uzbekistan Sum",
+        "rate": 9286.1117579071,
+        "date": "Fri, 16 May 2025 15:55:20 GMT",
+        "inverseRate": 0.00010768769815294
+    },
+    "ves": {
+        "code": "VES",
+        "alphaCode": "VES",
+        "numericCode": "928",
+        "name": "Venezuelan Bolivar",
+        "rate": 67.501421271062,
+        "date": "Fri, 16 May 2025 15:55:20 GMT",
+        "inverseRate": 0.014814502882604
+    },
+    "vuv": {
+        "code": "VUV",
+        "alphaCode": "VUV",
+        "numericCode": "548",
+        "name": "Vanuatu vatu",
+        "rate": 86.535195701979,
+        "date": "Fri, 16 May 2025 15:55:20 GMT",
+        "inverseRate": 0.011555991661981
+    },
+    "wst": {
+        "code": "WST",
+        "alphaCode": "WST",
+        "numericCode": "882",
+        "name": "Samoan tala",
+        "rate": 1.991928955581,
+        "date": "Fri, 16 May 2025 15:55:20 GMT",
+        "inverseRate": 0.50202593681778
+    },
+    "xaf": {
+        "code": "XAF",
+        "alphaCode": "XAF",
+        "numericCode": "950",
+        "name": "Central African CFA Franc",
+        "rate": 419.87844786658,
+        "date": "Fri, 16 May 2025 15:55:20 GMT",
+        "inverseRate": 0.0023816416514852
+    },
+    "xcd": {
+        "code": "XCD",
+        "alphaCode": "XCD",
+        "numericCode": "951",
+        "name": "East Caribbean Dollar",
+        "rate": 1.9346399548019,
+        "date": "Fri, 16 May 2025 15:55:20 GMT",
+        "inverseRate": 0.51689204366836
+    },
+    "xcg": {
+        "code": "XCG",
+        "alphaCode": "XCG",
+        "numericCode": "532",
+        "name": "Caribbean guilder",
+        "rate": 1.2825695068278,
+        "date": "Fri, 16 May 2025 15:55:20 GMT",
+        "inverseRate": 0.77968483943867
+    },
+    "xof": {
+        "code": "XOF",
+        "alphaCode": "XOF",
+        "numericCode": "952",
+        "name": "West African CFA Franc",
+        "rate": 419.87844786658,
+        "date": "Fri, 16 May 2025 15:55:20 GMT",
+        "inverseRate": 0.0023816416514852
+    },
+    "xpf": {
+        "code": "XPF",
+        "alphaCode": "XPF",
+        "numericCode": "953",
+        "name": "CFP Franc",
+        "rate": 76.384288874546,
+        "date": "Fri, 16 May 2025 15:55:20 GMT",
+        "inverseRate": 0.013091697451585
+    },
+    "yer": {
+        "code": "YER",
+        "alphaCode": "YER",
+        "numericCode": "886",
+        "name": "Yemeni rial",
+        "rate": 174.95228707201,
+        "date": "Fri, 16 May 2025 15:55:20 GMT",
+        "inverseRate": 0.0057158441123345
+    },
+    "zmw": {
+        "code": "ZMW",
+        "alphaCode": "ZMW",
+        "numericCode": "967",
+        "name": "Zambian kwacha",
+        "rate": 19.175812746816,
+        "date": "Fri, 16 May 2025 15:55:20 GMT",
+        "inverseRate": 0.052149028216082
+    },
+    "byn": {
+        "code": "BYN",
+        "alphaCode": "BYN",
+        "numericCode": "933",
+        "name": "Belarussian Ruble",
+        "rate": 2.3448877584674,
+        "date": "Fri, 16 May 2025 15:55:20 GMT",
+        "inverseRate": 0.42645964455611
+    },
+    "irr": {
+        "code": "IRR",
+        "alphaCode": "IRR",
+        "numericCode": "364",
+        "name": "Iranian rial",
+        "rate": 30074.296582988,
+        "date": "Fri, 16 May 2025 15:55:20 GMT",
+        "inverseRate": 3.325098551318e-05
+    },
+    "syp": {
+        "code": "SYP",
+        "alphaCode": "SYP",
+        "numericCode": "760",
+        "name": "Syrian pound",
+        "rate": 9301.3288400994,
+        "date": "Fri, 16 May 2025 15:55:20 GMT",
+        "inverseRate": 0.00010751151982595
+    }
+}
