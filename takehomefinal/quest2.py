@@ -10,15 +10,18 @@ for currency in os.listdir("data"):
     if currency.endswith(".json"):
         with open(f"data/{currency}", "r") as f:
             currency_data[currency.replace(".json", "")] = json.load(f)
-
+print(currency_data)
 #Now its in a json file and then I will convert that data to dataframe
 df_list = []
-for currency, data in currency_data.items():
-    for date, info in data.items():
-        df_list.append([currency, date, info.get('rate', 0)])
+for currency, contents in currency_data.items():
+    for date, info in contents.items():
+        rate = info.get("exchangeRate", 0)
+        target_currency = info.get("TargetCurrency", "Unkown")
+        df_list.append([target_currency, date, rate])
 df = pd.DataFrame(df_list, columns=['Currency', 'Date', 'ExchangeRate'])
-print(df['Date'])
-df['Date'] = pd.to_datetime(df['Date'])
+#Here will be the date format that we needed to fix
+df['Date'] = pd.to_datetime(df['Date'], errors='coerce')
+df.dropna(subset=['Date'], inplace=True)
 df.sort_values(by='Date', inplace=True)
 
 #here will be the Matplotlib
